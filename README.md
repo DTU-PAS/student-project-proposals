@@ -6,7 +6,6 @@ Each pdf-document corresponds to one project, containing a short **description**
 
 Here is the list of the projects:
 
-Here is the list of the projects:
 
 | Number | Title | Tags |
 |--------|-------|------|
