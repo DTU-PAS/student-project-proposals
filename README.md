@@ -4,7 +4,7 @@ In this repository, staff from the *[Automation and Control Group, Department fo
 
 Each pdf-document corresponds to one project, containing a short **description**, a **required level** as well as **contact** information. In case you are interested in the project, please contact the responsible for further details!
 
-Here is the list of the projects:
+Here is the list of the open projects:
 
 
 | Number | Title | Tags |
